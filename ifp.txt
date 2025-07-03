@@ -1,0 +1,34 @@
+01. Entrada:
+Arquivo: ifp.txt
+Linha 37: nome = input("Digite uma letra: ")
+Explicação: Solicita ao usuário que digite uma letra, armazenando essa entrada na variável tentativa.
+
+02. Saída:
+Arquivo: ifp.txt
+Linha 30: print(mostrar)
+Explicação: Exibe na tela o progresso atual da palavra, mostrando letras acertadas
+
+03. Variáveis:
+Arquivo: ifp.txt
+Linha 13: palavra = random.choice(palavras)
+Explicação: Armazena uma palavra aleatória da lista palavras na variável palavra para ser usada no jogo.
+
+04. Biblioteca
+Arquivo: ifp.txt
+Linha 7: import random
+Explicação: Importa a biblioteca padrão random do Python, que permite a geração de números e escolhas aleatórias, usada para escolher uma palavra aleatoriamente da lista.
+
+05. Operadores
+Arquivo: ifp.txt
+Linha 20: while tentativas > 0:
+Explicação: Utiliza o operador relacional > para verificar se o número de tentativas é maior que zero.
+
+06. Funções
+Arquivo: ifp.txt
+Linha 30: print(mostrar)
+Explicação: Utiliza a função embutida print() para exibir mensagens e informações para o jogador.
+
+07. Estrutura de condição
+Arquivo: ifp.txt
+Linha 39-41: if-else
+Explicação: Estrutura condicional if-else para decidir se a letra digitada está na palavra e executar ações diferentes em cada caso.
